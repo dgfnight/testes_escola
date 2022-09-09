@@ -2,7 +2,7 @@
 
 Integrantes da Squad.
 
-Ana Maria Pessoa \n
+Ana Maria Pessoa
 Ary Sa Ribeiro
 Derik Galoni Fernandes
 Ellen Emanuela Cintra
